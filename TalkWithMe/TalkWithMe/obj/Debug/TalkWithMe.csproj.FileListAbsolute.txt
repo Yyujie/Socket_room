@@ -1,0 +1,27 @@
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.exe.config
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.csprojResolveAssemblyReference.cache
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.Form1.resources
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.Properties.Resources.resources
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.csproj.GenerateResource.Cache
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.exe
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.pdb
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.exe
+c:\users\sesa435533\documents\visual studio 2013\Projects\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.pdb
+C:\work\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.exe.config
+C:\work\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.exe
+C:\work\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.pdb
+C:\work\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.exe
+C:\work\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.pdb
+C:\work\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.csprojResolveAssemblyReference.cache
+C:\work\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.Form1.resources
+C:\work\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.Properties.Resources.resources
+C:\work\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.csproj.GenerateResource.Cache
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.exe.config
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.exe
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.pdb
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.exe
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\bin\Debug\TalkWithMe.pdb
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.csprojResolveAssemblyReference.cache
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.Form1.resources
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.Properties.Resources.resources
+E:\Schneider\Socket\聊天室socket\TalkWithMe\TalkWithMe\obj\Debug\TalkWithMe.csproj.GenerateResource.Cache
